@@ -43,7 +43,7 @@ nbconvert==5.6.0
 nbformat==4.4.0
 networkx==2.4
 notebook==6.0.1
-numpy==1.17.2
+numpy==1.22.0
 olefile==0.46
 pandocfilters==1.4.2
 parso==0.5.1
